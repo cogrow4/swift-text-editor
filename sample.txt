@@ -1,0 +1,9 @@
+This is a sample text file for testing SWIFT editor.
+
+Features to test:
+- View Mode: Navigate with arrow keys
+- Edit Mode: Press 'i' to enter, ESC to exit
+- Commands: w (save), q (quit), wq (save and quit)
+- Syntax highlighting for different file types
+
+Try editing this file with SWIFT!
